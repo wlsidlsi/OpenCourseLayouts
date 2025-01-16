@@ -1,0 +1,58 @@
+Introduction to Music Composition
+
+    General Knowledge
+        Fundamentals of Music        
+            Rhythm
+                Pulse --"The unwavering underlying beat that holds a song or rhythm pattern together"
+                Tempo --"The pace or speed at which music is played" #BEAT
+                Meter --"Refers to the groupings of beats into larger units called measures"
+            Melody
+                Notes --"The basic building blocks of music, consisting of a specific pitch and duration" #PITCH
+                Scales --"A set of notes organized by pitch, typically ascending or descending in half or whole steps"
+                Intervals --"The distance between two notes"
+            Harmony
+                Chords --"Combination of three or more notes played simultaneously" #SIMULTANEOUSLY
+                Chord progressions --"sequences of chords that create a sense of movement and resolution"
+
+    Process of Composition
+        Inspiration
+            Exploring different musical styles
+            Listening to other composers' works
+            Finding inspiration from life experiences
+        Sketching Ideas
+            Using a variety of instruments, software, or notation
+            Experimenting with different musical elements
+            Developing a basic structure and form
+        Developing Themes
+            Creating a memorable, easily recognizable musical idea
+            Varying and developing the theme throughout the composition
+        Arranging and Orchestration
+            Deciding which instruments will play each part
+            Creating a balanced and cohesive sound
+            Adding textures and effects to enhance the musical experience
+        Refining and Editing
+            Polishing the composition by removing any unnecessary or repetitive elements
+            Ensuring the musical ideas flow smoothly and effectively
+            Seeking feedback from other musicians or composers
+
+    Genres and Styles
+        Classical Music
+            Baroque
+            Classical
+            Romantic
+        Jazz
+            Swing
+            Bebop
+            Cool Jazz
+        Rock
+            Rock and Roll
+            Heavy Metal
+            Alternative Rock
+        Pop
+            Pop Rock
+            Dance Pop
+            Indie Pop
+        Electronic
+            Techno
+            House
+            Dubstep

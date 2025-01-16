@@ -1,0 +1,38 @@
+Music Composition
+    Definitions
+        Creating music through tones -- "Music engages the ear and conveys ideas, feelings or emotions" #music
+        Arranging, composing, and performing musical pieces -- "Melody, harmony, tempo and rhythm work together to create music" #create
+    History
+        Ancient Origins -- "Have been composing music for thousands of years" #history
+        Medieval Period
+            Polyphony -- "Was first demonstrated musically with organum" #history
+        Renaissance Period -- "Music began to be used in theatrical productions" #history
+        Baroque Period -- "Introduced the use of different instruments" #history
+        Classical Period -- "Came to be more precise and concise in style" #history
+        Romantic Period -- "Music was used to convey intense emotions" #history
+        Modern and Contemporary Periods -- "Seen the rise of experimental and electronic musical forms" #history
+        Process
+            Inspiration -- "Having an idea for a piece of music" #style
+            Composition -- "Writing down the musical notes" #style
+            Instrumentation -- "Choosing which instruments will be used to play the piece" #style
+            Arrangement -- "Deciding how the piece will be performed" #style
+            Production -- "Recording and mixing the piece" #style
+    Genres
+        Classical Music -- "Known for its use of traditional forms and structures" #genre
+        Pop Music -- "Popular music that is often characterized by catchy melodies and simple lyrics" #genre
+        Rock Music -- "Loud and energetic music that is often characterized by the use of guitars" #genre
+        Electronic Music -- "Music that is created using electronic instruments and computers" #genre
+        Jazz Music -- "Music that is characterized by improvisation and syncopation" #genre
+    Benefits
+        Cognitive
+            Improves memory and concentration -- "Engages the brain, helps developing cognitive skills" #benefit
+            Enhances creativity and problem-solving skills -- "Allows to express emotions and ideas in creative ways" #benefit
+        Emotional
+            Reduces stress and anxiety -- "Can be used as a form of relaxation and stress relief" #benefit
+            Boosts mood and self-esteem -- "Can make people feel happy, confident, and uplifted" #benefit
+        Social
+            Strengthens relationships -- "Can be used to connect with others, share emotions, and build relationships" #benefit
+            Fosters cultural understanding -- "Can be used to learn about different cultures and perspectives" #benefit
+        Physical
+            Improves coordination and motor skills -- "Playing musical instruments requires coordination and fine motor skills" #benefit
+            Reduces pain and discomfort -- "Can be used as a form of therapy to alleviate pain and discomfort" #benefit
