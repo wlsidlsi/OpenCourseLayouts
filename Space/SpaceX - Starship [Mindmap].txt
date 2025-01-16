@@ -1,0 +1,26 @@
+SpaceX Starship
+	Engines
+		Raptor
+			Vacuum
+		Methane
+	Payload
+	Capabilities
+		Earth to Earth
+			New York to Tokyo in under 30 minutes --"Airfare expected to be less than $1000" #spacex #starship
+		Mars
+			Passenger Capacity: 100
+	Cost
+		Development
+			$5-10 billion
+		Per Launch
+			Under $10 million
+	Design
+		Fully Reusable
+		Vertical Take-Off and Vertical Landing (VTVL)
+	Development
+		First Test Flight: May 5, 2019
+		First Orbital Flight: Planned for October 2023
+	Competition
+		Blue Origin
+		United Launch Alliance
+		China's National Space Administration

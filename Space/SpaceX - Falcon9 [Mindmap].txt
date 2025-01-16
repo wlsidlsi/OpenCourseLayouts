@@ -1,0 +1,25 @@
+SpaceX Falcon9
+    History
+        Development
+            Inception --"Elon Musk founded SpaceX in 2002, with the goal of reducing space transportation costs."
+            First flight --"The Falcon 1 made its first flight in 2006, followed by the Falcon 9 in 2010."
+        Operational history
+            Launch statistics --"As of January 2023, Falcon 9 has flown over 150 missions, with a success rate of over 99%."
+            Reusable rockets --"Falcon 9's first stage is designed to be reusable, reducing launch costs."
+            Commercial flights --"Falcon 9 has been used to launch commercial satellites and cargo to the International Space Station."
+    Technical specifications
+        Design
+            Stages --"Falcon 9 consists of two stages: the first stage and the second stage."
+            Propulsion --"The first stage is powered by nine Merlin engines, while the second stage is powered by a single Merlin vacuum engine."
+            Payload capacity --"Falcon 9 can deliver payloads of up to 22,800 kg to low Earth orbit."
+        Performance
+            Thrust --"Falcon 9's first stage produces a thrust of over 7,600 kN."
+            Specific impulse --"The Merlin engines have a specific impulse of over 340 seconds in vacuum."
+            Maneuverability --"Falcon 9 can perform complex maneuvers, such as controlled landings."
+    Variants
+        Falcon 9 Block 5 --"The current version of Falcon 9, with improved performance and reusability."
+        Falcon 9 Heavy --"A variant with three cores, capable of launching heavier payloads."
+    Applications
+        Satellite deployment --"Falcon 9 has been used to launch satellites for various purposes, such as telecommunications and Earth observation."
+        SpaceX Starship development --"Falcon 9 is used to launch Starship prototypes for future space missions."
+        Human spaceflight --"Falcon 9 is used to launch Crew Dragon capsules to the International Space Station."
