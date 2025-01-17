@@ -1,4 +1,10 @@
-Topics
+## Foundation Level
+
+### Objectives
+	•	Grasp SpaceX’s origins, core mission, and role in the aerospace industry.
+	•	Comprehend the basics of rocket propulsion, orbital mechanics, and launch operations.
+
+### Topics
 	1.	SpaceX Background
 	•	Founding story, key milestones, and organizational structure
 	•	Overview of commercial spaceflight and SpaceX’s role in it
@@ -15,7 +21,18 @@ Topics
 	•	Launch site logistics and ground support
 	•	Launch sequence and critical “go/no-go” checks
 
-Topics
+### Suggested Activities & Assessments
+	•	Activity: Use a simple orbital simulator (e.g., Kerbal Space Program or online tools) to visualize how changing velocity affects orbits.
+	•	Group Project: Research a past SpaceX mission (e.g., CRS-1, the first Dragon cargo mission) and present a timeline of key launch milestones.
+	•	Quiz: Short multiple-choice test on propulsion basics and orbital mechanics vocabulary.
+
+## Intermediate Level
+
+### Objectives
+	•	Deepen understanding of SpaceX’s main launch vehicles and the technology behind reusability.
+	•	Explore spacecraft design, telemetry systems, and orbital maneuvers in greater detail.
+
+### Topics
 	1.	SpaceX Launch Vehicles
 	•	Falcon 9: design evolution, reusability features
 	•	Falcon Heavy: structural differences, heavy-lift capabilities
@@ -37,19 +54,19 @@ Topics
 	•	In-orbit refueling concepts
 	•	Debris mitigation and compliance with space traffic management
 
-Suggested Activities & Assessments
+### Suggested Activities & Assessments
 	•	Activity: Analyze telemetry data from a recorded Falcon 9 launch to chart altitude, velocity, and booster landing.
 	•	Case Study: Create a mock payload integration plan for a small satellite to be launched on a Falcon 9.
 	•	Group Presentation: Compare SpaceX’s reusability approach to that of competitors (e.g., Blue Origin’s New Shepard or ULA’s Vulcan).
 
-Advanced Level
+## Advanced Level
 
-Objectives
+### Objectives
 	•	Investigate SpaceX’s human spaceflight program and its ambitious plans for Mars exploration.
 	•	Critically assess legal, environmental, and sustainability issues in commercial spaceflight.
 	•	Develop strategic thinking for future mission proposals.
 
-Topics
+### Topics
 	1.	SpaceX’s Human Spaceflight Program
 	•	Crew Dragon design, safety measures, and ISS missions
 	•	Starlink constellation: technical structure, global internet coverage, and potential concerns
@@ -70,12 +87,12 @@ Topics
 	•	Licensing, liability, and insurance for commercial launches
 	•	Ethical considerations of human settlement on Mars
 
-Suggested Activities & Assessments
+### Suggested Activities & Assessments
 	•	Team Project: Draft a detailed Mars mission plan using Starship, including hardware, timelines, and risk mitigation strategies.
 	•	Debate: Split into groups to argue for or against stringent regulations on mega-constellations like Starlink.
 	•	Research Paper/Presentation: Analyze the legal frameworks governing commercial spaceflight and propose improvements or policy changes to address new challenges.
 
-Additional Learning Resources
+### Additional Learning Resources
 	•	Books:
 	•	The Space Barons by Christian Davenport
 	•	Elon Musk by Ashlee Vance
@@ -87,3 +104,4 @@ Additional Learning Resources
 	•	Orbital mechanics simulators (Kerbal Space Program, GMAT)
 	•	Open-source flight telemetry data viewers
 	•	3D modeling tools (e.g., Blender or Tinkercad for rocket design mockups)
+
