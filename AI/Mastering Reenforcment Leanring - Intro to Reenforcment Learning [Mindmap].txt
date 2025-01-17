@@ -1,0 +1,31 @@
+Introduction to Reinforcement Learning
+    Terminologies
+        Agent
+        Environment
+        Reward
+        State
+        Action
+        Policy
+    Methods
+        Model-based
+            Dynamic Programming
+        Model-free
+            Monte Carlo
+            TD Learning
+                Q-Learning
+                SARSA
+                Expected SARSA
+            Actor-Critic
+        Time-based Learning
+            Episodic
+            Continuing
+    Applications
+        Game Playing #boardgames #videogames
+        Robotics #automation #autonomous
+        Finance #trading #investment
+        Healthcare #medical #pharmaceuticals
+        Transportation #autonomousvehicles #logistics
+    Challenges
+        Sparse Rewards
+        Exploration-Exploitation Dilemma
+        Credit Assignment Problem
