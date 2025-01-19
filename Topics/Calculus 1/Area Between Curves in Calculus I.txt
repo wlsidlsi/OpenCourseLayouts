@@ -1,0 +1,38 @@
+### Area Between Curves in Calculus I: Syllabus
+
+**Foundation Level**
+
+*   Definite Integral as Area
+*   Area Under a Curve: Rectangular Approximation (Riemann Sums)
+*   Area Under a Curve: Fundamental Theorem of Calculus
+*   Basic Area Calculations with Simple Functions (Polynomials, Trigonometric Functions)
+*   Area Between Curve and x-axis
+*   Area Above and Below x-axis
+*   Integration Techniques Review (Substitution, Power Rule)
+
+**Intermediate Level**
+
+*   Area Between Two Curves: Vertical Slices
+*   Setting up Integrals for Area Between Curves
+*   Identifying Points of Intersection
+*   Area Between Curves with Multiple Intersection Points
+*   Area Calculations with More Complex Functions (Rational Functions, Exponential Functions)
+*   Using Symmetry to Simplify Area Calculations
+
+**Advanced Level**
+
+*   Area Between Curves: Horizontal Slices (Integration with respect to y)
+*   Choosing Between Vertical and Horizontal Slices
+*   Area Between Curves Defined Implicitly
+*   Applications: Area as Accumulated Rate of Change
+*   Applications: Area in Business, Economics, Physics
+
+**Master Level**
+
+*   Generalized Area Concepts: Parameterized Curves
+*   Area Calculations with Polar Coordinates
+*   Multiple Integrals: Introduction to Double Integration for Area
+*   Advanced Applications: Center of Mass, Moments of Inertia
+*   Numerical Integration Methods for Approximating Area (Trapezoidal Rule, Simpson's Rule)
+*   Error Analysis in Numerical Area Approximations
+

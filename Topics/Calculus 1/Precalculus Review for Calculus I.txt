@@ -1,0 +1,58 @@
+**Precalculus Review for Calculus I Syllabus**
+
+**Foundation Level**
+
+*   Real Numbers and the Number Line
+*   Absolute Value and Distance
+*   Algebraic Expressions and Equations
+*   Polynomials: Operations, Factoring, Roots
+*   Rational Expressions: Simplification, Operations
+*   Radical Expressions and Equations
+*   Linear Equations and Inequalities
+*   Systems of Linear Equations
+*   Introduction to Functions: Definition, Notation, Domain, Range
+*   Function Operations and Composition
+*   Graphing Basic Functions: Linear, Quadratic, Cubic
+
+**Intermediate Level**
+
+*   Quadratic Functions: Forms, Properties, Graphs
+*   Polynomial Functions: Graphing, End Behavior
+*   Rational Functions: Asymptotes, Graphing
+*   Exponential Functions: Properties, Graphs
+*   Logarithmic Functions: Properties, Graphs
+*   Inverse Functions
+*   Trigonometric Functions: Definition, Unit Circle
+*   Trigonometric Identities
+*   Solving Trigonometric Equations
+*   Graphs of Trigonometric Functions
+*   Transformations of Functions
+
+**Advanced Level**
+
+*   Analytic Geometry: Lines, Circles, Conic Sections
+*   Parametric Equations
+*   Polar Coordinates
+*   Complex Numbers
+*   Sequences and Series
+*   Binomial Theorem
+*   Mathematical Induction
+*   Limits: Informal Introduction
+*   Continuity: Informal Introduction
+*   Introduction to Vectors
+*   Introduction to Matrices
+*   Partial Fractions
+
+**Master Level**
+
+*   Advanced Trigonometric Identities
+*   Limits and Continuity: Formal Definitions
+*   Introduction to Differential Calculus Concepts
+*   Introduction to Integral Calculus Concepts
+*   Applications of Precalculus Concepts
+*   Problem Solving Strategies
+*   Mathematical Modeling
+*   Advanced Graphing Techniques
+*   Advanced Curve Sketching
+*   Review and Synthesis
+

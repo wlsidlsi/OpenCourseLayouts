@@ -1,0 +1,37 @@
+**Foundation Level**
+
+*   Function Definition and Notation
+*   Domain and Range
+*   Basic Functions (Linear, Quadratic, Polynomial)
+*   Intercepts (x- and y-)
+*   Symmetry (Even, Odd, Neither)
+*   Vertical and Horizontal Asymptotes
+*   Limits at Infinity
+*   Graphical Analysis
+
+**Intermediate Level**
+
+*   Derivatives: Definition and Basic Rules
+*   First Derivative Test
+*   Critical Points
+*   Increasing and Decreasing Intervals
+*   Local Maxima and Minima
+*   Second Derivative Test
+*   Concavity and Inflection Points
+
+**Advanced Level**
+
+*   Applications of Curve Sketching (Optimization)
+*   Implicit Differentiation (relevant to some curves)
+*   Advanced Asymptotes (Slant Asymptotes)
+*   Advanced Function Families (Rational, Trigonometric)
+*   Curve Sketching with Piecewise Functions
+
+**Master Level**
+
+*   Curve Sketching with Parameterized Equations
+*   Multivariable Calculus Introduction (Level Curves)
+*   Advanced Optimization and Related Rates
+*   Computational Tools for Curve Sketching (e.g., software)
+*   Applications in Fields (Physics, Engineering etc.)
+

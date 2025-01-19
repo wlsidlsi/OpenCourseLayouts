@@ -1,0 +1,28 @@
+**Foundation**
+
+*   Functions and Function Notation
+*   Basic Differentiation Rules (Power, Constant, Sum, Difference)
+*   Composition of Functions
+*   Understanding of Inner and Outer Functions
+
+**Intermediate**
+
+*   Introduction to the Chain Rule
+*   Applying the Chain Rule with Basic Functions (Polynomial, Trigonometric, Exponential)
+*   Chain Rule with Multiple Compositions
+*   Implicit Differentiation Using the Chain Rule
+
+**Advanced**
+
+*   Chain Rule with Logarithmic Functions
+*   Chain Rule with Inverse Trigonometric Functions
+*   The Chain Rule in Related Rates Problems
+*   Higher-Order Derivatives Using the Chain Rule
+
+**Master**
+
+*   Generalized Chain Rule
+*   Chain Rule with Parametric Equations
+*   Chain Rule and Multivariate Functions (Partial Derivatives)
+*   Applications of the Chain Rule in Advanced Calculus and Physics
+

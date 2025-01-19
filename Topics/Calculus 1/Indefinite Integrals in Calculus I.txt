@@ -1,0 +1,32 @@
+**Foundation**
+
+*   Antiderivatives and the Indefinite Integral
+*   Basic Integration Rules (Power Rule, Constant Multiple Rule, Sum/Difference Rule)
+*   Integrals of Basic Trigonometric Functions (sin, cos, sec^2, csc^2, sec*tan, csc*cot)
+*   Integrals of Exponential and Logarithmic Functions (e^x, 1/x)
+*   Initial Value Problems and Particular Solutions
+
+**Intermediate**
+
+*   Substitution Rule (u-substitution)
+*   Integration by Parts
+*   Trigonometric Integrals (using identities)
+*   Integration of Rational Functions (Partial Fractions, Basic Cases)
+*   Tabular Integration (Repeated Integration by Parts)
+
+**Advanced**
+
+*   Trigonometric Substitution
+*   Partial Fractions (General Cases)
+*   Improper Integrals (Basic Convergence/Divergence Tests)
+*   Reduction Formulas
+*   Advanced Substitution Techniques
+
+**Master**
+
+*   Advanced Integration Techniques (Elliptic Integrals)
+*   Numerical Integration (Trapezoidal Rule, Simpson's Rule)
+*   Integrals Involving Special Functions
+*   Advanced Improper Integrals (More Complex Convergence/Divergence)
+*   Applications of Indefinite Integrals in Differential Equations
+

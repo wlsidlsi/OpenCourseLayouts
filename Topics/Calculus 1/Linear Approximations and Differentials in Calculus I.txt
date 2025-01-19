@@ -1,0 +1,42 @@
+### Calculus I: Linear Approximations and Differentials
+
+**Foundation Level**
+
+*   Review of Functions and Graphs
+*   Concept of Tangent Lines
+*   Secant Lines and their Slopes
+*   Limits and Continuity: Connection to Tangents
+*   Definition of the Derivative
+*   Basic Differentiation Rules (Power, Constant, Sum, Difference)
+
+**Intermediate Level**
+
+*   The Differential: Definition and Notation
+*   Relationship Between Derivative and Differential
+*   Geometric Interpretation of the Differential
+*   Linear Approximation: Tangent Line Approximation
+*   Error in Linear Approximation
+*   Applications of Linear Approximation to Estimation
+    *   Function Values
+    *   Small Changes
+
+**Advanced Level**
+
+*   Differentials and Related Rates
+*   Error Propagation using Differentials
+*   Taylor Polynomials: Motivation from Linear Approximation
+*   Higher Order Approximations
+*   Applications in Optimization
+*   Application to Numerical Methods
+*   Multivariable Differentials
+
+**Master Level**
+
+*   Formal Definition of Differentials in Multiple Variables
+*   Total Differentials
+*   Exact Differentials
+*   Differentials and Vector Calculus
+*   Implicit Differentiation and Differentials
+*   Applications in Physics and Engineering
+*   Error Analysis with Taylor series and Differentials
+

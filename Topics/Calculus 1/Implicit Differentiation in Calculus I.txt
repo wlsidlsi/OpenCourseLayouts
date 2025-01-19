@@ -1,0 +1,35 @@
+### Implicit Differentiation in Calculus I: Syllabus
+
+**Foundation Level:**
+
+*   Review of Explicit Functions and Derivatives
+*   Introduction to Implicit Relations
+*   Basic Implicit Differentiation Techniques
+*   Derivatives of Implicit Equations with Two Variables
+*   Applications: Finding Tangent Lines to Implicit Curves
+*   Practice Problems with Simple Implicit Functions
+
+**Intermediate Level:**
+
+*   Implicit Differentiation with Trigonometric Functions
+*   Implicit Differentiation with Logarithmic and Exponential Functions
+*   Higher-Order Implicit Differentiation (Second Derivatives)
+*   Applications: Related Rates with Implicit Differentiation
+*   Advanced Practice Problems with Mixed Function Types
+
+**Advanced Level:**
+
+*   Implicit Differentiation Involving Multiple Variables (Partial Derivatives Preview)
+*   Implicit Differentiation in Parametric Equations
+*   Implicit Differentiation with Complex Implicit Functions
+*   Applications: Curve Analysis and Concavity using Implicit Derivatives
+*   Advanced Applications in Geometry and Physics
+
+**Master Level:**
+
+*   Theoretical Justification of Implicit Differentiation Theorem
+*   Implicit Differentiation in Vector-Valued Functions
+*   Implicit Differentiation and Jacobian Matrices (Multivariable Preview)
+*   Advanced Applications: Optimization and Implicitly Defined Functions
+*   Advanced Research and Project on Specific Applications
+

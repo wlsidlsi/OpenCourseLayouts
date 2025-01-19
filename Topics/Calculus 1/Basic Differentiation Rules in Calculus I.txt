@@ -1,0 +1,35 @@
+**Calculus I: Basic Differentiation Rules - Syllabus**
+
+**Foundation Level**
+
+*   Introduction to Limits and Continuity (Review)
+*   Definition of the Derivative
+*   Derivative as a Slope of a Tangent Line
+*   Power Rule for Derivatives
+*   Constant Multiple Rule
+*   Sum and Difference Rule
+
+**Intermediate Level**
+
+*   Derivatives of Trigonometric Functions (sin(x), cos(x), tan(x), csc(x), sec(x), cot(x))
+*   Product Rule
+*   Quotient Rule
+*   Derivatives of Exponential Functions (e^x, a^x)
+*   Derivatives of Logarithmic Functions (ln(x), log_a(x))
+
+**Advanced Level**
+
+*   Chain Rule
+*   Implicit Differentiation
+*   Derivatives of Inverse Trigonometric Functions
+*   Higher-Order Derivatives
+*   Logarithmic Differentiation
+
+**Master Level**
+
+*   Applications of Differentiation Rules
+*   Related Rates Problems
+*   Optimization Problems
+*   L'Hôpital's Rule (as applicable to derivatives)
+*   Analysis of Function Behavior Using Derivatives
+
