@@ -1,0 +1,24 @@
+<b>Alice</b> | The protagonist and is a young girl who falls down a rabbit hole and into a strange world.
+<b>The White Rabbit</b> | A talking rabbit who is always late.
+<b>The Dodo</b> | A large bird who tries to organize a caucus race but fails.
+<b>The Cheshire Cat</b> | A mysterious and mischievous cat that can appear and disappear at will.
+<b>The Caterpillar</b> | A hookah-smoking caterpillar who gives Alice advice on how to get to the Red Queen's castle.
+<b>The Duchess</b> | A grumpy old woman who cooks pepper soup for her baby.
+<b>The Gryphon</b> | A half-griffin, half-lion creature that takes Alice to the duchess's house.
+<b>The Mock Turtle</b> | A sad creature who is always crying.
+<b>The Mad Hatter</b> | A tea-party host who is always having tea with the March Hare and the Dormouse.
+<b>The March Hare</b> | A tea-party guest who is always late and is always asking riddles.
+<b>The Dormouse</b> | A tea-party guest who is always sleeping.
+<b>The Red Queen</b> | A cruel and tyrannical queen who wants to cut off Alice's head.
+<b>The White Queen</b> | A kind and gentle queen who wants to help Alice.
+<b>The Knave of Hearts</b> | The Red Queen's gardener who is wrongfully accused of stealing her tarts.
+<b>The Tweedle Brothers</b> | Identical twins who are always arguing.
+<b>The Walrus</b> | A large and pompous creature that sings a song about oysters.
+<b>The Carpenter</b> | A companion of the Walrus who sings a song about oysters.
+<b>The Queen's Croquet Players</b> | A group of flamingoes and hedgehogs who play croquet with the Red Queen.
+<b>The Jabberwocky</b> | A fearsome creature that Alice encounters in the forest.
+<b>Bandersnatch</b> | A strange creature that pokes its nose into everything.
+<b>The Boojum</b> | A mysterious creature that Alice is warned to beware.
+<b>The Red King</b> | The Red Queen's husband who is always sleeping.
+<b>The White King</b> | The White Queen's husband who is always playing chess.
+<b>Humpty Dumpty</b> | An egg-shaped creature who sits on a wall.

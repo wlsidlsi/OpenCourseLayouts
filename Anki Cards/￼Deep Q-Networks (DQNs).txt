@@ -1,0 +1,27 @@
+<div>What is a Deep Q-Network (DQN)?</div> | <div>A DQN combines deep neural networks with Q-learning to enable agents to learn complex control tasks from raw sensory input.</div>
+<div>What is reinforcement learning?</div> | <div>An agent interacts with an environment, takes actions, receives rewards, and learns a policy to maximize cumulative reward.</div>
+<div>What is the Q-function, Q(s, a)?</div> | <div>It estimates the expected cumulative reward for taking action 'a' in state 's' and following the optimal policy.</div>
+<div>What is the Q-learning update rule?</div> | <div>Q(s, a) ← Q(s, a) + α [r + γ maxₐ' Q(s', a') - Q(s, a)]</div>
+<div>What is α in the Q-learning update rule?</div> | <div>The learning rate.</div>
+<div>What is γ in the Q-learning update rule?</div> | <div>The discount factor (how much future rewards are valued).</div>
+<div>What is r in the Q-learning update rule?</div> | <div>The immediate reward received.</div>
+<div>What is s in the Q-learning update rule?</div> | <div>The current state.</div>
+<div>What is a in the Q-learning update rule?</div> | <div>The action taken.</div>
+<div>What is s' in the Q-learning update rule?</div> | <div>The next state.</div>
+<div>What is maxₐ' Q(s', a') in the Q-learning update rule?</div> | <div>The maximum Q-value for the next state.</div>
+<div>Why is deep learning used in DQNs?</div> | <div>To approximate the Q-function for high-dimensional environments, overcoming limitations of traditional Q-learning.</div>
+<div>What is experience replay?</div> | <div>Storing experiences in a buffer to break correlations and improve learning stability.</div>
+<div>What is a target network?</div> | <div>A separate network used to compute target Q-values, improving learning stability.</div>
+<div>What is ε-greedy exploration?</div> | <div>A technique to balance exploring new actions and exploiting learned knowledge.</div>
+<div>Give an application of DQNs in gaming.</div> | <div>Achieving superhuman performance in Atari games.</div>
+<div>Give an application of DQNs in robotics.</div> | <div>Training robots for tasks like walking and grasping.</div>
+<div>Give an application of DQNs in autonomous driving.</div> | <div>Learning optimal driving strategies.</div>
+<div>Give an application of DQNs in resource management.</div> | <div>Optimizing resource allocation in energy grids or traffic control.</div>
+<div>What is a limitation of DQNs?</div> | <div>They can require a large number of training samples.</div>
+<div>What is overestimation bias in DQNs?</div> | <div>Using the maximum Q-value can lead to overestimation, affecting stability and performance.</div>
+<div>What is a challenge related to generalization in DQNs?</div> | <div>DQNs may struggle to generalize to unseen situations or environments.</div>
+<div>What is a current research focus in DQN improvement?</div> | <div>Improving sample efficiency and robustness through new architectures and training methods.</div>
+<div>What is a key advantage of DQNs over traditional Q-learning?</div> | <div>Ability to handle complex, continuous state spaces.</div>
+<div>How does a DQN output Q-values?</div> | <div>A deep neural network takes the state as input and outputs Q-values for all possible actions.</div>
+
+

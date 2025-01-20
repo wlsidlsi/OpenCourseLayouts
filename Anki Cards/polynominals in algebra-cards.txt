@@ -1,0 +1,27 @@
+<div>What is a polynomial?</div> | <div>An expression consisting of variables and coefficients, that involves only the operations of addition, subtraction, multiplication, and non-negative integer exponents of variables.</div>
+<div>What is the degree of a polynomial?</div> | <div>The highest power of the variable in a polynomial.</div>
+<div>What is a monomial?</div> | <div>A polynomial with only one term.</div>
+<div>What is a binomial?</div> | <div>A polynomial with two terms.</div>
+<div>What is a trinomial?</div> | <div>A polynomial with three terms.</div>
+<div>How do you add polynomials?</div> | <div>Combine like terms by adding their coefficients.</div>
+<div>How do you subtract polynomials?</div> | <div>Change the signs of the terms in the polynomial being subtracted and then add.</div>
+<div>How do you multiply monomials?</div> | <div>Multiply the coefficients and add the exponents of the variables.</div>
+<div>How do you multiply a monomial by a polynomial?</div> | <div>Distribute the monomial to each term of the polynomial.</div>
+<div>How do you multiply binomials?</div> | <div>Use the FOIL method (First, Outer, Inner, Last) or distributive property.</div>
+<div>What is the FOIL method?</div> | <div>A method for multiplying binomials: First, Outer, Inner, Last.</div>
+<div>What is factoring?</div> | <div>The process of writing a polynomial as a product of simpler polynomials.</div>
+<div>How do you factor a polynomial with a common factor?</div> | <div>Find the greatest common factor (GCF) of all terms and factor it out.</div>
+<div>How do you factor a difference of squares?</div> | <div>Use the formula <i>a</i><sup>2</sup> - <i>b</i><sup>2</sup> = (<i>a</i> + <i>b</i>)(<i>a</i> - <i>b</i>).</div>
+<div>How do you factor a perfect square trinomial?</div> | <div>Use the formula <i>a</i><sup>2</sup> + 2<i>ab</i> + <i>b</i><sup>2</sup> = (<i>a</i> + <i>b</i>)<sup>2</sup> or <i>a</i><sup>2</sup> - 2<i>ab</i> + <i>b</i><sup>2</sup> = (<i>a</i> - <i>b</i>)<sup>2</sup>.</div>
+<div>How do you factor a trinomial of the form <i>ax</i><sup>2</sup> + <i>bx</i> + <i>c</i>?</div> | <div>Use factoring by grouping or trial and error.</div>
+<div>What is the Remainder Theorem?</div> | <div>If a polynomial <i>P(x)</i> is divided by (<i>x</i> - <i>c</i>), the remainder is <i>P(c)</i>.</div>
+<div>What is the Factor Theorem?</div> | <div>(<i>x</i> - <i>c</i>) is a factor of <i>P(x)</i> if and only if <i>P(c)</i> = 0.</div>
+<div>What is a rational expression?</div> | <div>A ratio of two polynomials.</div>
+<div>How do you simplify a rational expression?</div> | <div>Factor the numerator and denominator and cancel common factors.</div>
+<div>How do you add or subtract rational expressions?</div> | <div>Find a common denominator and then add or subtract the numerators.</div>
+<div>How do you multiply rational expressions?</div> | <div>Multiply the numerators and multiply the denominators.  Then simplify.</div>
+<div>How do you divide rational expressions?</div> | <div>Invert the second fraction and multiply.</div>
+<div>What is a polynomial equation?</div> | <div>An equation where one side is a polynomial and the other side is zero.</div>
+<div>How do you solve a polynomial equation?</div> | <div>Factor the polynomial and set each factor equal to zero.</div>
+
+

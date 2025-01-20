@@ -1,0 +1,27 @@
+<div>What is the primary purpose of NAT?</div> | <div>To translate private internal IP addresses to a single public IP address for internet use.</div>
+<div>What is the main security benefit of NAT?</div> | <div>It hides internal IP addresses from the open internet, preventing unsolicited inbound traffic.</div>
+<div>What is a limitation of NAT regarding security?</div> | <div>It doesn't inspect traffic content or block malicious activity; it only prevents inbound connections.</div>
+<div>Can NAT prevent malicious outbound connections?</div> | <div>No, NAT does not stop malicious traffic on outbound connections initiated by internal devices.</div>
+<div>Describe NAT's security approach.</div> | <div>"Security by obscurity"; it hides internal networks but doesn't actively block threats.</div>
+<div>What is the primary purpose of a firewall?</div> | <div>To filter and control incoming and outgoing network traffic based on security rules.</div>
+<div>How does a firewall provide security?</div> | <div>By blocking unauthorized traffic, monitoring malicious activity, and inspecting both inbound and outbound traffic.</div>
+<div>What criteria can a firewall use to block traffic?</div> | <div>IP address, port, and protocol.</div>
+<div>Can a firewall detect and block malware?</div> | <div>Yes, it can monitor and block malicious activity like malware and DDoS attacks.</div>
+<div>What is stateful inspection in the context of firewalls?</div> | <div>Inspecting both incoming and outgoing traffic and acting based on patterns, content, or rules.</div>
+<div>What is a limitation of firewalls?</div> | <div>They require proper configuration and maintenance to be effective.</div>
+<div>Can a firewall prevent unwanted outbound connections?</div> | <div>Yes, it can prevent things like malware communicating with command and control servers.</div>
+<div>Compare NAT and firewall protection levels.</div> | <div>Firewalls offer much stronger protection than NAT alone.</div>
+<div>Does NAT actively block malicious traffic?</div> | <div>No, NAT only provides basic protection by hiding internal IP addresses.</div>
+<div>Does a firewall actively block malicious traffic?</div> | <div>Yes, a firewall actively filters, inspects, and blocks traffic based on rules and patterns.</div>
+<div>What type of protection does NAT offer?</div> | <div>Basic protection by hiding internal IP addresses.</div>
+<div>What type of protection does a firewall offer?</div> | <div>Robust security by filtering and inspecting both inbound and outbound traffic.</div>
+<div>Which is a stronger protective measure: NAT or a firewall?</div> | <div>A firewall.</div>
+<div>What is a common way to improve network security?</div> | <div>Combining NAT with firewall functionality in a router.</div>
+<div>How does NAT contribute to network security?</div> | <div>By masking internal IP addresses and preventing direct access to internal devices.</div>
+<div>How does a firewall contribute to network security?</div> | <div>By actively inspecting and filtering traffic based on defined rules.</div>
+<div>What is the main difference between NAT and a firewall in terms of traffic handling?</div> | <div>NAT translates addresses; firewalls filter and control traffic based on rules.</div>
+<div>Give an example of a security benefit provided by a firewall but not by NAT.</div> | <div>Blocking malware based on its behavior or signature.</div>
+<div>Give an example of a use case for a firewall.</div> | <div>Preventing unauthorized remote access to internal servers.</div>
+<div>What is a common deployment of NAT and a firewall?</div> | <div>Integrated into a single router device.</div>
+
+

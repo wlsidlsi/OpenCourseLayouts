@@ -1,0 +1,24 @@
+<div>What is an eigenvalue?</div> | <div>A scalar associated with a linear transformation, representing how a corresponding eigenvector is scaled by the transformation.</div>
+<div>What is an eigenvector?</div> | <div>A non-zero vector that only changes by a scalar factor when a linear transformation is applied to it.</div>
+<div>How are eigenvalues and eigenvectors related?</div> | <div>An eigenvector, when transformed by its corresponding eigenvalue, only changes in magnitude (scales), not direction.</div>
+<div>Write the eigenvalue equation.</div> | <div>A<b>v</b> = λ<b>v</b>, where A is a matrix, <b>v</b> is an eigenvector, and λ is an eigenvalue.</div>
+<div>How do you find eigenvalues?</div> | <div>Solve the characteristic equation: det(A - λI) = 0, where A is the matrix and I is the identity matrix.</div>
+<div>What is the characteristic polynomial?</div> | <div>The polynomial obtained from the determinant in the characteristic equation, det(A - λI).</div>
+<div>How do you find eigenvectors once you know the eigenvalues?</div> | <div>Solve the equation (A - λI)<b>v</b> = 0, where λ is the eigenvalue.</div>
+<div>What is the eigenspace?</div> | <div>The set of all eigenvectors corresponding to a particular eigenvalue, including the zero vector.</div>
+<div>Can a matrix have more than one eigenvalue?</div> | <div>Yes, a matrix can have multiple eigenvalues, and the number of eigenvalues is less than or equal to the dimension of the matrix.</div>
+<div>Can an eigenvalue be zero?</div> | <div>Yes, an eigenvalue of zero indicates that the corresponding eigenvector lies in the null space of the matrix.</div>
+<div>What is the geometric multiplicity of an eigenvalue?</div> | <div>The dimension of the eigenspace corresponding to that eigenvalue.</div>
+<div>What is the algebraic multiplicity of an eigenvalue?</div> | <div>The number of times the eigenvalue appears as a root of the characteristic polynomial.</div>
+<div>Are eigenvectors unique?</div> | <div>No, eigenvectors are not unique. Any scalar multiple of an eigenvector is also an eigenvector for the same eigenvalue.</div>
+<div>What are some applications of eigenvalues and eigenvectors?</div> | <div>They are used in many fields, including physics (quantum mechanics, vibrations), computer graphics (image compression), and machine learning (principal component analysis).</div>
+<div>What is diagonalization?</div> | <div>The process of expressing a matrix in terms of its eigenvalues and eigenvectors, often simplifying calculations.</div>
+<div>When is a matrix diagonalizable?</div> | <div>A matrix is diagonalizable if it has a complete set of linearly independent eigenvectors.</div>
+<div>What is a similarity transformation?</div> | <div>A transformation of a matrix using the formula P<sup>-1</sup>AP, where P is an invertible matrix. Similarity transformations preserve eigenvalues.</div>
+<div>What is the spectral theorem?</div> | <div>A theorem stating that symmetric matrices can be diagonalized by an orthogonal matrix.</div>
+<div>What is the trace of a matrix?</div> | <div>The sum of the diagonal elements of the matrix, which also equals the sum of its eigenvalues.</div>
+<div>What is the determinant of a matrix?</div> | <div>A scalar value calculated from the elements of the matrix, which also equals the product of its eigenvalues.</div>
+<div>Can non-square matrices have eigenvalues and eigenvectors?</div> | <div>No, only square matrices have eigenvalues and eigenvectors.</div>
+<div>How do eigenvalues relate to the stability of a system?</div> | <div>The eigenvalues of a system's matrix can indicate whether the system is stable, unstable, or oscillates.</div>
+<div>What is a generalized eigenvector?</div> | <div>A vector that, when multiplied by a matrix multiple times, eventually becomes an eigenvector.</div>
+<div>What is the Jordan canonical form?</div> | <div>A way to represent a matrix in a nearly diagonal form, even if it's not diagonalizable, using generalized eigenvectors.</div>

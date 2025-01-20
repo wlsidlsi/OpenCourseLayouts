@@ -1,0 +1,27 @@
+<div>What does the "f" in fping stand for?</div> | <div>fast</div>
+<div>What protocol does fping use?</div> | <div>ICMP echo request</div>
+<div>How does fping differ from ping in terms of target hosts?</div> | <div>ping handles one host at a time; fping can handle multiple hosts simultaneously.</div>
+<div>Describe fping's execution behavior.</div> | <div>fping is non-interactive by default; it sends a set number of pings and exits.</div>
+<div>Compare the performance of ping and fping when dealing with multiple hosts.</div> | <div>fping is significantly faster due to its parallel processing.</div>
+<div>How does the output of ping and fping differ?</div> | <div>ping provides detailed statistics for each response; fping offers more concise, summary-focused output.</div>
+<div>What is the primary use case for ping?</div> | <div>Checking connectivity of individual hosts.</div>
+<div>What is the primary use case for fping?</div> | <div>Quickly checking the status of multiple hosts in parallel.</div>
+<div>Name a powerful network scanning tool used for discovering hosts and services.</div> | <div>nmap</div>
+<div>What is hping used for?</div> | <div>Sending custom ICMP, TCP, UDP, or raw IP packets.</div>
+<div>What tool combines the functionality of ping and traceroute?</div> | <div>mtr (My Traceroute)</div>
+<div>What does traceroute do?</div> | <div>Traces the path packets take to a specified host.</div>
+<div>What is netcat (nc) known for?</div> | <div>Reading and writing data across network connections.</div>
+<div>What does arping do?</div> | <div>Sends ARP requests to check layer 2 connectivity.</div>
+<div>Name a suite of tools for network management in Linux.</div> | <div>iproute2</div>
+<div>What does tcpdump do?</div> | <div>Captures and displays network traffic in real time.</div>
+<div>What tool monitors network bandwidth usage by host?</div> | <div>iftop</div>
+<div>What does nload monitor?</div> | <div>Incoming and outgoing network traffic on interfaces.</div>
+<div>What is smokeping used for?</div> | <div>Graphical visualization of network latency trends over time.</div>
+<div>True or False: fping is interactive by default.</div> | <div>False</div>
+<div>True or False: ping is optimized for parallel pinging of multiple hosts.</div> | <div>False</div>
+<div>True or False: fping's output is designed to be easily parsed.</div> | <div>True</div>
+<div>Which tool is best for troubleshooting routing issues?</div> | <div>traceroute</div>
+<div>Which tool is best for long-term network performance monitoring?</div> | <div>smokeping</div>
+<div>What is a key advantage of fping over ping?</div> | <div>Speed and ability to ping multiple hosts concurrently.</div>
+
+
