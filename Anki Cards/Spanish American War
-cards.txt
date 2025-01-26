@@ -1,0 +1,25 @@
+<div>What was the name of the U.S. battleship that exploded in Havana harbor, helping to trigger the Spanish-American War? | <div>USS Maine</div>
+<div>Who was the U.S. president during the Spanish-American War? | <div>William McKinley</div>
+<div>What was the name of the Spanish general who led the defense of Cuba against the U.S.? | <div>Valeriano Weyler</div>
+<div>What was the name of the U.S. general who led the invasion of Cuba? | <div>William Rufus Shafter</div>
+<div>What was the name of the battle in which the U.S. Navy destroyed the Spanish fleet in the Philippines? | <div>Battle of Manila Bay</div>
+<div>What was the name of the treaty that ended the Spanish-American War and gave the U.S. control of Puerto Rico, Guam, and the Philippines? | <div>Treaty of Paris (1898)</div>
+<div>What was the most important cause of the Spanish-American War? | <div>The sinking of the USS Maine</div>
+<div>What was the main goal of the U.S. in the Spanish-American War? | <div>To free Cuba from Spanish rule</div>
+<div>What was the most significant outcome of the Spanish-American War? | <div>The U.S. emerged as a world power</div>
+<div>What was the name of the Cuban revolutionary leader who fought for independence from Spain? | <div>José Martí</div>
+<div>What was the name of the Spanish commander who surrendered to the U.S. at the Battle of San Juan Hill? | <div>General Arsenio Linares y Pombo</div>
+<div>What was the name of the U.S. navy admiral who led the blockade of Cuba during the Spanish-American War? | <div>George Dewey</div>
+<div>What was the name of the U.S. general who was killed at the Battle of San Juan Hill? | <div>Joseph Wheeler</div>
+<div>What was the name of the Spanish fleet that was destroyed by the U.S. Navy at the Battle of Santiago de Cuba? | <div>Spanish Caribbean Squadron</div>
+<div>What was the name of the U.S. soldier who was awarded the Medal of Honor for his actions at the Battle of San Juan Hill? | <div>Theodore Roosevelt</div>
+<div>What was the name of the U.S. army unit that was known as the "Rough Riders"? | <div>1st U.S. Volunteer Cavalry</div>
+<div>What was the name of the Spanish colony that was the main target of the U.S. in the Spanish-American War? | <div>Cuba</div>
+<div>What was the name of the U.S. ship that was sunk by a Spanish mine during the Spanish-American War? | <div>USS Merrimac</div>
+<div>What was the name of the Spanish general who was captured by the U.S. at the Battle of Santiago de Cuba? | <div>General José Toral y Valdés</div>
+<div>What was the name of the U.S. navy ship that was the flagship of the U.S. fleet during the Spanish-American War? | <div>USS Brooklyn</div>
+<div>What was the name of the U.S. general who was the commander of the U.S. army during the Spanish-American War? | <div>Nelson A. Miles</div>
+<div>What was the name of the Spanish general who was the governor-general of Cuba during the Spanish-American War? | <div>General Ramón Blanco y Erenas</div>
+<div>What was the name of the U.S. navy ship that was sunk by a Spanish torpedo boat during the Spanish-American War? | <div>USS Winslow</div>
+<div>What was the name of the U.S. army regiment that was known as the "Fighting 69th"? | <div>69th New York Volunteer Infantry</div>
+<div>What was the name of the U.S. navy ship that was the first to enter Santiago harbor during the Battle of Santiago de Cuba? | <div>USS Brooklyn</div>

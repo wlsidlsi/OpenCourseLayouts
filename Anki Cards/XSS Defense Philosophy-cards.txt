@@ -1,0 +1,27 @@
+<div>What is the core principle behind XSS defense?</div> | <div>Preventing attackers from inserting and executing malicious content in webpages.</div>
+<div>What is crucial for preventing XSS attacks?</div> | <div>Protecting all variables in a web application.</div>
+<div>What does "perfect injection resistance" refer to?</div> | <div>Validating and escaping/sanitizing all variables.</div>
+<div>Why is perfect injection resistance important?</div> | <div>Any unprotected variable is a potential XSS vulnerability.</div>
+<div>What simplifies the process of validating and escaping variables?</div> | <div>Web application frameworks.</div>
+<div>Are frameworks foolproof against XSS?</div> | <div>No, security gaps can still exist even in popular frameworks.</div>
+<div>Give an example of a framework with potential XSS vulnerabilities.</div> | <div>React and Angular (among others).</div>
+<div>Name a technique to mitigate XSS vulnerabilities in frameworks.</div> | <div>Output encoding.</div>
+<div>What is another technique to mitigate XSS vulnerabilities in frameworks?</div> | <div>HTML sanitization.</div>
+<div>What is the goal of output encoding?</div> | <div>To prevent malicious code from being interpreted as executable code.</div>
+<div>What is the goal of HTML sanitization?</div> | <div>To remove or neutralize potentially harmful HTML tags and attributes.</div>
+<div>Why is it important to validate user input?</div> | <div>To prevent malicious code from being injected into the application.</div>
+<div>What should be done with user input before it's displayed?</div> | <div>It should be validated and escaped/sanitized.</div>
+<div>What type of input is particularly vulnerable to XSS?</div> | <div>Untrusted user input.</div>
+<div>Can you escape all types of attacks with proper escaping?</div> | <div>No, some attacks might bypass escaping techniques.</div>
+<div>What is a common approach to handle untrusted data?</div> | <div>Using parameterized queries (for database interactions).</div>
+<div>Why are parameterized queries safer than string concatenation?</div> | <div>They prevent SQL injection and XSS vulnerabilities.</div>
+<div>What is the role of a Web Application Firewall (WAF)?</div> | <div>To filter malicious traffic and block XSS attacks.</div>
+<div>What is Content Security Policy (CSP)?</div> | <div>A security mechanism to reduce the risk of XSS attacks by specifying allowed sources for content.</div>
+<div>How does CSP help prevent XSS?</div> | <div>By restricting the sources from which a browser is allowed to load resources.</div>
+<div>Besides escaping, what other defense strategies are useful?</div> | <div>Input validation, output encoding, and using a WAF.</div>
+<div>What is the importance of regular security audits?</div> | <div>To identify and fix vulnerabilities before attackers exploit them.</div>
+<div>Why is keeping software up-to-date crucial for XSS defense?</div> | <div>Patches often address newly discovered XSS vulnerabilities.</div>
+<div>What is a key takeaway for preventing XSS?</div> | <div>Treat all user input as potentially malicious and sanitize it appropriately.</div>
+<div>What is a layered security approach?</div> | <div>Implementing multiple security measures to reduce vulnerabilities.</div>
+
+

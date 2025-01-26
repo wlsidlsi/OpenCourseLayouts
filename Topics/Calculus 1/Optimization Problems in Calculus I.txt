@@ -1,0 +1,45 @@
+**Calculus I: Optimization Problems - Syllabus**
+
+**Foundation Level**
+
+*   Introduction to Optimization: Basic Concepts and Definitions
+*   Local vs. Global Extrema
+*   Critical Points: Finding Candidates for Optimization
+*   The First Derivative Test
+*   Applying the First Derivative Test to Basic Functions
+*   Closed Interval Method
+*   Optimization with Polynomials and Rational Functions
+*   Practical Applications: Simple Geometric and Rate Problems
+
+**Intermediate Level**
+
+*   The Second Derivative Test
+*   Concavity and Inflection Points
+*   Optimization with Trigonometric Functions
+*   Optimization with Exponential and Logarithmic Functions
+*   Implicit Differentiation in Optimization
+*   Related Rates Problems as Optimization Problems
+*   Constrained Optimization: Simple Cases
+
+**Advanced Level**
+
+*   Multivariable Optimization Introduction: Basic Concepts
+*   Partial Derivatives and Gradients
+*   Critical Points of Multivariable Functions
+*   Second Partial Derivative Test
+*   Lagrange Multipliers: Constrained Optimization with Multiple Variables
+*   Optimization with Constraints: Geometric Applications
+*   Optimization with Constraints: Economic Applications
+*   Advanced Practical Applications
+
+**Master Level**
+
+*   Advanced Constrained Optimization
+*   The Kuhn-Tucker Conditions
+*   Sensitivity Analysis in Optimization
+*   Convex Optimization: Basic Concepts
+*   Numerical Optimization Methods: Introduction
+*   Real-World Optimization Problems: Case Studies
+*   Advanced Techniques for Specific Problem Types
+*   Research Topics and Independent Study in Optimization
+

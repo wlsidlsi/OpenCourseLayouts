@@ -1,0 +1,26 @@
+<div>What is an algebraic expression?</div> | <div>A mathematical phrase that can contain numbers, variables, and operators.</div>
+<div>What is a variable?</div> | <div>A letter or symbol that represents an unknown value.</div>
+<div>What is a constant?</div> | <div>A fixed value that does not change.</div>
+<div>What is a coefficient?</div> | <div>The number in front of a variable.</div>
+<div>What is a term?</div> | <div>A single number, variable, or the product of numbers and variables.</div>
+<div>What is an equation?</div> | <div>A mathematical statement that shows two expressions are equal.</div>
+<div>What is a mathematical model?</div> | <div>A representation of a real-world situation using mathematical concepts.</div>
+<div>What are real numbers?</div> | <div>All numbers that can be found on the number line, including rational and irrational numbers.</div>
+<div>What is a rational number?</div> | <div>A number that can be expressed as a fraction <i>a/b</i> where <i>a</i> and <i>b</i> are integers and <i>b</i> is not zero.</div>
+<div>What is an irrational number?</div> | <div>A number that cannot be expressed as a fraction <i>a/b</i> where <i>a</i> and <i>b</i> are integers.</div>
+<div>Give an example of a rational number.</div> | <div>1/2, 0.75, 3</div>
+<div>Give an example of an irrational number.</div> | <div>π, √2</div>
+<div>What is the order of operations (PEMDAS)?</div> | <div>Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right).</div>
+<div>Simplify: 2x + 3x</div> | <div>5x</div>
+<div>Simplify: 4y - y</div> | <div>3y</div>
+<div>Simplify: 5(2a + 3)</div> | <div>10a + 15</div>
+<div>Solve for x: x + 5 = 10</div> | <div>x = 5</div>
+<div>Solve for y: 2y - 4 = 6</div> | <div>y = 5</div>
+<div>What is the commutative property of addition?</div> | <div>a + b = b + a</div>
+<div>What is the associative property of addition?</div> | <div>(a + b) + c = a + (b + c)</div>
+<div>What is the distributive property?</div> | <div>a(b + c) = ab + ac</div>
+<div>What is a linear equation?</div> | <div>An equation that can be written in the form y = mx + b, where m is the slope and b is the y-intercept.</div>
+<div>What is the slope of a line?</div> | <div>The rate of change of y with respect to x.</div>
+<div>What is the y-intercept of a line?</div> | <div>The point where the line crosses the y-axis.</div>
+
+

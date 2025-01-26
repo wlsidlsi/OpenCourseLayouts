@@ -1,0 +1,25 @@
+<div>What year did the Battle of the Alamo take place?</div> | <div>1836</div>
+<div>In what city did the Battle of the Alamo occur?</div> | <div>San Antonio, Texas</div>
+<div>For how many days did the Alamo siege last?</div> | <div>13 days</div>
+<div>Who was the Mexican general who led the assault on the Alamo?</div> | <div>Antonio López de Santa Anna</div>
+<div>Name one of the famous Texan defenders who died at the Alamo.</div> | <div>Possible answers: William B. Travis, Davy Crockett, Jim Bowie</div>
+<div>What was the main objective of the Texan defenders at the Alamo?</div> | <div>To delay the Mexican advance and give the Texan army more time to organize.</div>
+<div>What famous phrase did William B. Travis use in his letter pleading for reinforcements?</div> | <div>"Victory or Death"</div>
+<div>Approximately how many Texan defenders were there at the Alamo?</div> | <div>Around 200</div>
+<div>Approximately how many Mexican soldiers participated in the final assault?</div> | <div>Over 2,000</div>
+<div>What happened to the Texan defenders after the battle?</div> | <div>They were all killed.</div>
+<div>What impact did the Battle of the Alamo have on the Texas Revolution?</div> | <div>It galvanized Texan resistance and inspired them to fight for independence.</div>
+<div>What famous battle cry emerged after the Alamo?</div> | <div>"Remember the Alamo!"</div>
+<div>What is the Alamo considered today?</div> | <div>A shrine to Texan freedom and a symbol of courage and sacrifice.</div>
+<div>What was the original purpose of the Alamo?</div> | <div>A Spanish mission</div>
+<div>What was the significance of the Alamo's location?</div> | <div>It controlled a key route into Texas.</div>
+<div>Why did the Texans fortify the Alamo?</div> | <div>They knew it was a strategic location that the Mexican army would likely target.</div>
+<div>What role did James Bowie play in the Battle of the Alamo?</div> | <div>He was a co-commander, known for his fighting skills and his famous Bowie knife.</div>
+<div>What role did Davy Crockett play in the Battle of the Alamo?</div> | <div>He was a famous frontiersman and politician who joined the Texan forces.</div>
+<div>What was the main weakness of the Alamo's defenses?</div> | <div>The walls were low and relatively easy to scale.</div>
+<div>What tactics did the Mexican army use to overcome the Alamo?</div> | <div>They bombarded the fort with artillery and launched a series of determined infantry assaults.</div>
+<div>How did news of the Alamo's fall spread?</div> | <div>Survivors of the battle and messengers carried the news throughout Texas.</div>
+<div>How did the Battle of the Alamo contribute to Texas winning independence?</div> | <div>It rallied Texans to fight and inspired international support for their cause.</div>
+<div>What happened to Santa Anna after the Texas Revolution?</div> | <div>He was defeated and captured at the Battle of San Jacinto.</div>
+<div>Where can you visit the Alamo today?</div> | <div>In San Antonio, Texas, where it is a popular tourist destination and historical landmark.</div> 
+

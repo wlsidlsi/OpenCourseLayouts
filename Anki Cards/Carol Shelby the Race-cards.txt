@@ -1,0 +1,25 @@
+<div>What year was Carroll Shelby born?</div> | <div>1923</div>
+<div>What was Carroll Shelby's first major racing victory?</div> | <div>1959 24 Hours of Le Mans</div>
+<div>What significant health issue forced Shelby to retire from racing?</div> | <div>Heart problems</div>
+<div>What iconic American sports car is strongly associated with Carroll Shelby?</div> | <div>Shelby Cobra</div>
+<div>What company did Carroll Shelby collaborate with to create the Shelby Cobra?</div> | <div>AC Cars</div>
+<div>Besides the Cobra, what other famous Ford model did Shelby modify?</div> | <div>Ford Mustang (Shelby Mustang)</div>
+<div>What was the name of Shelby's racing team?</div> | <div>Shelby American</div>
+<div>In what city did Carroll Shelby establish his automotive company?</div> | <div>Los Angeles</div>
+<div>What was the top-of-the-line version of the Shelby Cobra?</div> | <div>Shelby Cobra 427</div>
+<div>What type of engine was typically used in the Shelby Cobra?</div> | <div>Ford V8</div>
+<div>What is the significance of the Shelby GT500?</div> | <div>High-performance version of the Ford Mustang</div>
+<div>What role did Carroll Shelby play in the development of the Ford GT40?</div> | <div>He helped develop and manage the racing program</div>
+<div>How many consecutive Le Mans victories did the Ford GT40 achieve with Shelby's involvement?</div> | <div>Four (1966-1969)</div>
+<div>What was Carroll Shelby's contribution beyond race car design and modification?</div> | <div>He was a successful entrepreneur and businessman.</div>
+<div>What awards and recognitions did Carroll Shelby receive?</div> | <div>Numerous awards, including induction into the International Motorsports Hall of Fame.</div>
+<div>What is the Shelby American Collection?</div> | <div>A museum showcasing Shelby's cars and racing history</div>
+<div>What was the impact of Carroll Shelby's work on the American automotive industry?</div> | <div>He significantly impacted American muscle car culture and high-performance vehicle development.</div>
+<div>What is a notable characteristic of the Shelby Cobra's design?</div> | <div>Its lightweight body and powerful engine</div>
+<div>Besides cars, what other ventures did Carroll Shelby pursue?</div> | <div>Winemaking and other business interests.</div>
+<div>When did Carroll Shelby pass away?</div> | <div>2012</div>
+<div>What is the lasting legacy of Carroll Shelby?</div> | <div>He is remembered as a legendary race car driver and a highly influential figure in the automotive world.</div>
+<div>Name one of the specific models of the Shelby Mustang.</div> | <div>Shelby GT350 or Shelby GT500 (either is acceptable)</div>
+<div>What was the general racing philosophy that guided Carroll Shelby?</div> | <div>Building fast, powerful, and competitive cars, often emphasizing lightweight design.</div>
+
+

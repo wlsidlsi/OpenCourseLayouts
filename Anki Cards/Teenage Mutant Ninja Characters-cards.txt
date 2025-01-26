@@ -1,0 +1,47 @@
+<div>Who is the leader of the Teenage Mutant Ninja Turtles?</div> | <div>Leonardo, the blue-masked leader</div>
+<div>What color mask does Leonardo wear?</div> | <div>Blue</div>
+<div>What is Leonardo's role in the team?</div> | <div>The leader who strategizes and guides the team</div>
+<div>Who is the brains of the Teenage Mutant Ninja Turtles?</div> | <div>Donatello, the purple-masked brains of the group</div>
+<div>What color mask does Donatello wear?</div> | <div>Purple</div>
+<div>What is Donatello's primary weapon?</div> | <div>The bo staff</div>
+<div>Who is the hotheaded member of the Teenage Mutant Ninja Turtles?</div> | <div>Raphael, the red-masked hothead</div>
+<div>What color mask does Raphael wear?</div> | <div>Red</div>
+<div>What is Raphael's primary weapon?</div> | <div>Sai</div>
+<div>Who is the party-loving member of the Teenage Mutant Ninja Turtles?</div> | <div>Michelangelo, the orange-masked party dude</div>
+<div>What color mask does Michelangelo wear?</div> | <div>Orange</div>
+<div>What is Michelangelo's primary weapon?</div> | <div>Nunchaku</div>
+<div>Who is the human reporter allied with the Teenage Mutant Ninja Turtles?</div> | <div>April O'Neil, the human reporter and ally of the turtles</div>
+<div>What is April O'Neil's profession?</div> | <div>Reporter</div>
+<div>Who is the wise rat sensei of the Teenage Mutant Ninja Turtles?</div> | <div>Splinter, the wise and mysterious rat sensei of the turtles</div>
+<div>What is Splinter's relationship to the Teenage Mutant Ninja Turtles?</div> | <div>He is their mentor and father figure</div>
+<div>Who is the arch-nemesis and leader of the Foot Clan?</div> | <div>Shredder, the turtles' arch-nemesis and leader of the Foot Clan</div>
+<div>What is Shredder's main objective against the turtles?</div> | <div>To eliminate them and take over the city</div>
+<div>Who is the brain-like alien from Dimension X allied with Shredder?</div> | <div>Krang, the brain-like alien from Dimension X and Shredder's second-in-command</div>
+<div>What species is Krang?</div> | <div>An alien brain from Dimension X</div>
+<div>Who are Bebop and Rocksteady?</div> | <div>The dimwitted mutant warthog and rhinoceros henchmen of Shredder</div>
+<div>What are Bebop and Rocksteady's mutations?</div> | <div>Bebop is a warthog mutant and Rocksteady is a rhinoceros mutant</div>
+<div>Who is Baxter Stockman?</div> | <div>The brilliant but evil scientist who creates mutant creatures for Shredder</div>
+<div>What does Baxter Stockman specialize in?</div> | <div>Genetic engineering and creating mutant creatures</div>
+<div>What is Leonardo's primary weapon?</div> | <div>Two katanas</div>
+<div>What is Donatello's expertise?</div> | <div>Technology and inventing gadgets</div>
+<div>What personality trait is Raphael known for?</div> | <div>His aggressive and rebellious nature</div>
+<div>What is Michelangelo's favorite pastime?</div> | <div>Eating pizza and having fun</div>
+<div>How does April O'Neil assist the turtles?</div> | <div>By providing information and acting as their liaison with humans</div>
+<div>What martial art does Splinter teach the turtles?</div> | <div>Ninjutsu</div>
+<div>What is the name of Shredder's Foot Clan?</div> | <div>The Foot Clan</div>
+<div>Where is Krang originally from?</div> | <div>Dimension X</div>
+<div>What are Bebop and Rocksteady's roles in Shredder's plans?</div> | <div>They serve as muscle and henchmen in his operations</div>
+<div>How does Baxter Stockman create mutants?</div> | <div>Through genetic manipulation and scientific experiments</div>
+<div>What is Leonardo's defining characteristic?</div> | <div>Leadership and discipline</div>
+<div>What gadget does Donatello often use?</div> | <div>His bo staff and technological devices</div>
+<div>What weapon does Raphael prefer?</div> | <div>Sai daggers</div>
+<div>What weapon does Michelangelo favor?</div> | <div>Nunchaku</div>
+<div>What is April O'Neil's relationship to the turtles?</div> | <div>She is their trusted human ally and friend</div>
+<div>What is Splinter's origin story?</div> | <div>A mutated rat who trained the turtles in ninjutsu</div>
+<div>What is Shredder's real name?</div> | <div>Oroku Saki</div>
+<div>How does Krang communicate?</div> | <div>Through robotic bodies and advanced technology</div>
+<div>What are Bebop and Rocksteady's main weaknesses?</div> | <div>Their lack of intelligence and poor coordination</div>
+<div>What motivates Baxter Stockman?</div> | <div>Power and his alliance with Shredder</div>
+<div>How do the turtles typically defeat their enemies?</div> | <div>Using teamwork, martial arts, and their unique skills</div>
+<div>What is the primary setting for the Teenage Mutant Ninja Turtles?</div> | <div>New York City</div>
+<div>How did the turtles acquire their mutations?</div> | <div>Exposure to mutagenic ooze</div>

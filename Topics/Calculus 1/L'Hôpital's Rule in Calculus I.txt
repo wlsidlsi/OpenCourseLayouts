@@ -1,0 +1,33 @@
+**Foundation**
+
+*   Limits: Review of Basic Limit Concepts
+*   Indeterminate Forms: 0/0, ∞/∞
+*   Graphical Understanding of Limits and Indeterminate Forms
+
+**Intermediate**
+
+*   Introduction to L'Hôpital's Rule: Statement and Conditions
+*   Applying L'Hôpital's Rule: Basic Examples (0/0, ∞/∞)
+*   L'Hôpital's Rule with Algebraic Functions
+*   L'Hôpital's Rule with Trigonometric Functions
+*   Repeated Applications of L'Hôpital's Rule
+*   Limits Involving Infinity and Negative Infinity
+*   One-Sided Limits and L'Hôpital's Rule
+
+**Advanced**
+
+*   Indeterminate Forms: 0 * ∞, ∞ - ∞, 0⁰, 1^∞, ∞⁰ (Transformations Required)
+*   L'Hôpital's Rule with Exponential and Logarithmic Functions
+*   Applications of L'Hôpital's Rule: Curve Sketching, Optimization
+*   Limitations of L'Hôpital's Rule: When Rule Fails
+*   Connection to Continuity and Differentiability
+
+**Master**
+
+*   Rigorous Proof of L'Hôpital's Rule
+*   Generalized L'Hôpital's Rule
+*   Advanced Applications: Complex Analysis, Asymptotic Analysis
+*   L'Hôpital's Rule and Numerical Methods
+*   Historical Context and Development of L'Hôpital's Rule
+*   Extensions of L'Hôpital's Rule to Multivariable Calculus
+

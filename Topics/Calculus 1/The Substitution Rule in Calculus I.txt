@@ -1,0 +1,31 @@
+**Foundation**
+
+*   Basic Integration Review
+*   Understanding the Chain Rule
+*   Identifying Composite Functions
+*   Recognizing Inner and Outer Functions
+
+**Intermediate**
+
+*   Introduction to u-Substitution
+*   Choosing the Appropriate 'u'
+*   Changing the Variable of Integration
+*   Integrating Simple Composite Functions
+*   Definite Integrals and u-Substitution (Change of Limits)
+
+**Advanced**
+
+*   Substitution with Trigonometric Functions
+*   Substitution with Exponential and Logarithmic Functions
+*   Complex Substitution Strategies
+*   Repeated Substitution
+*   Integrals with Implicit Substitution
+
+**Master**
+
+*   Advanced u-Substitution Techniques
+*   Integration by Substitution and Partial Fractions
+*   Substitution with Hyperbolic Functions
+*   Applications of u-Substitution
+*   Advanced Problem Solving and Complex Applications
+

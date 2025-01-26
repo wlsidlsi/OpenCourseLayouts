@@ -1,0 +1,26 @@
+<div>What is 2<sup>3</sup>?</div> | <div>8</div>
+<div>Simplify x<sup>2</sup> * x<sup>3</sup></div> | <div>x<sup>5</sup></div>
+<div>What is (x<sup>2</sup>)<sup>3</sup>?</div> | <div>x<sup>6</sup></div>
+<div>Simplify 10<sup>0</sup></div> | <div>1</div>
+<div>What is x<sup>-2</sup>?</div> | <div>1/x<sup>2</sup></div>
+<div>Simplify  x<sup>5</sup> / x<sup>2</sup></div> | <div>x<sup>3</sup></div>
+<div>Write 0.0004 in scientific notation.</div> | <div>4 x 10<sup>-4</sup></div>
+<div>Write 6,200,000 in scientific notation.</div> | <div>6.2 x 10<sup>6</sup></div>
+<div>What is 2.5 x 10<sup>3</sup>?</div> | <div>2500</div>
+<div>What is 7.2 x 10<sup>-2</sup>?</div> | <div>0.072</div>
+<div>(3 x 10<sup>4</sup>) * (2 x 10<sup>2</sup>)</div> | <div>6 x 10<sup>6</sup></div>
+<div>(8 x 10<sup>6</sup>) / (4 x 10<sup>2</sup>)</div> | <div>2 x 10<sup>4</sup></div>
+<div>What is the square root of x<sup>6</sup>?</div> | <div>x<sup>3</sup></div>
+<div>What is the cube root of x<sup>9</sup>?</div> | <div>x<sup>3</sup></div>
+<div>Simplify 4<sup>1/2</sup></div> | <div>2</div>
+<div>Simplify 8<sup>2/3</sup></div> | <div>4</div>
+<div>What is <i>a</i><sup>m</sup> * <i>a</i><sup>n</sup>?</div> | <div><i>a</i><sup>m+n</sup></div>
+<div>What is (<i>a</i><sup>m</sup>)<sup>n</sup>?</div> | <div><i>a</i><sup>mn</sup></div>
+<div>What is <i>a</i><sup>m</sup> / <i>a</i><sup>n</sup>?</div> | <div><i>a</i><sup>m-n</sup></div>
+<div>What is (<i>ab</i>)<sup>n</sup>?</div> | <div><i>a</i><sup>n</sup><i>b</i><sup>n</sup></div>
+<div>What is (<i>a/b</i>)<sup>n</sup>?</div> | <div><i>a</i><sup>n</sup>/<i>b</i><sup>n</sup></div>
+<div>Convert 5.6 x 10<sup>5</sup> to standard notation.</div> | <div>560000</div>
+<div>Convert 2.1 x 10<sup>-3</sup> to standard notation.</div> | <div>0.0021</div>
+<div>Simplify (2x<sup>3</sup>y)<sup>2</sup></div> | <div>4x<sup>6</sup>y<sup>2</sup></div>
+
+

@@ -1,0 +1,26 @@
+<div>What is regression learning?</div> | <div>Regression learning is a type of supervised machine learning algorithm used to predict continuous values or a continuous target variable based on a given set of input variables or features.</div>
+<div>What type of values does regression learning predict?</div> | <div>Continuous values, such as prices, weights, or temperatures.</div>
+<div>Is regression learning supervised or unsupervised?</div> | <div>Supervised learning.</div>
+<div>What is the goal of regression learning?</div> | <div>To minimize the error between predicted and actual target values.</div>
+<div>Name one type of regression model.</div> | <div>Linear regression</div>
+<div>Describe linear regression.</div> | <div>A model that predicts a continuous variable as a linear function of the input variables.</div>
+<div>Describe polynomial regression.</div> | <div>A model that predicts a continuous variable as a polynomial function of the input variables.</div>
+<div>Describe support vector regression.</div> | <div>A model that predicts a continuous variable by finding a hyperplane that best separates the data points.</div>
+<div>Describe decision tree regression.</div> | <div>A model that predicts a continuous variable by building a decision tree that splits the input space into smaller regions.</div>
+<div>Name a regression model that uses artificial neural networks.</div> | <div>Neural network regression</div>
+<div>Give an application of regression learning.</div> | <div>Forecasting sales and demand</div>
+<div>Give another application of regression learning.</div> | <div>Predicting customer behavior</div>
+<div>Give a third application of regression learning.</div> | <div>Modeling economic data</div>
+<div>Give a fourth application of regression learning.</div> | <div>Estimating stock prices</div>
+<div>Give a fifth application of regression learning.</div> | <div>Optimizing manufacturing processes</div>
+<div>What is the difference between regression and classification?</div> | <div>Regression predicts continuous values; classification predicts discrete labels.</div>
+<div>True or false: Regression models are trained on datasets with both input and output variables.</div> | <div>True</div>
+<div>What kind of data is needed to train a regression model?</div> | <div>A dataset with both input variables and the corresponding continuous target variable.</div>
+<div>What does minimizing error mean in the context of regression?</div> | <div>Reducing the difference between the model's predictions and the actual values.</div>
+<div>Can you use regression to predict the probability of an event?</div> | <div>No, regression predicts continuous values, not probabilities.</div>
+<div>What is a hyperplane in the context of support vector regression?</div> | <div>A line (in 2D) or plane (in 3D) that best separates the data points.</div>
+<div>How does a decision tree regression model make predictions?</div> | <div>By splitting the input space into smaller regions and assigning a continuous value to each region.</div>
+<div>What are the input variables in a regression model often called?</div> | <div>Features</div>
+<div>What is the output variable in a regression model often called?</div> | <div>Target variable</div>
+
+

@@ -1,0 +1,54 @@
+*   **Foundation**
+    *   Antiderivatives and Indefinite Integrals
+    *   Basic Integration Rules
+    *   Substitution Rule (u-substitution)
+    *   Differential Notation and Its Relevance in Integration
+    *   Area Under a Curve: Introduction to the Concept
+    *   Riemann Sums: Approximating Area
+        *   Left, Right, and Midpoint Rules
+    *   Properties of Summation Notation
+
+*   **Intermediate**
+    *   The Definite Integral: Definition and Properties
+    *   The Fundamental Theorem of Calculus, Part 1
+        *   Evaluating Definite Integrals Using Antiderivatives
+    *   The Fundamental Theorem of Calculus, Part 2
+        *   Derivatives of Integrals
+    *   Area Between Curves
+        *   Integrating with respect to x
+        *   Integrating with respect to y
+    *   Integration by Substitution in Definite Integrals
+    *   Applications of the Definite Integral:
+        *   Displacement and Total Distance Traveled
+        *   Average Value of a Function
+        *   Net Change Theorem
+
+*   **Advanced**
+    *   Volumes of Solids of Revolution
+        *   Disk Method
+        *   Washer Method
+        *   Shell Method
+    *   Arc Length of a Curve
+    *   Surface Area of Revolution
+    *   Improper Integrals
+        *   Infinite Limits of Integration
+        *   Discontinuous Integrands
+    *   Comparison Tests for Improper Integrals
+    *   Numerical Integration Methods
+        *   Trapezoidal Rule
+        *   Simpson's Rule
+    *   Work Done by a Variable Force
+    *   Probability and Continuous Random Variables
+
+*   **Master**
+    *   Advanced Techniques for Improper Integrals
+        *   Convergence Analysis
+    *   Parametric Curves and Integrals
+    *   Polar Coordinates and Integrals
+    *   Advanced Applications of Integration
+        *   Center of Mass and Centroid
+        *   Fluid Pressure and Forces
+        *   Economic Models
+    *   Integration in Higher Dimensions: Introduction
+    *   Advanced Numerical Analysis Techniques for Integration
+

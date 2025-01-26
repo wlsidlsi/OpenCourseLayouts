@@ -1,0 +1,26 @@
+<div>What is Oh My Zsh?</div> | <div>A popular, open-source framework for managing Zsh configurations.</div>
+<div>What does Oh My Zsh simplify?</div> | <div>Zsh setup by providing plugins, themes, and functions.</div>
+<div>What is the primary benefit of Oh My Zsh?</div> | <div>Enhanced productivity, appearance, and functionality for command-line users.</div>
+<div>Who benefits most from Oh My Zsh?</div> | <div>Developers and power users.</div>
+<div>Is Oh My Zsh customizable?</div> | <div>Yes, highly customizable.</div>
+<div>What are the core components of Oh My Zsh?</div> | <div>Zsh configuration framework, plugins, themes.</div>
+<div>What is the role of the Zsh Configuration Framework in Oh My Zsh?</div> | <div>Streamlines the configuration of Zsh.</div>
+<div>What do Oh My Zsh plugins offer?</div> | <div>A wide range of plugins for common developer tools (e.g., Git, Docker).</div>
+<div>What is the purpose of themes in Oh My Zsh?</div> | <div>Customizing the prompt appearance.</div>
+<div>How is Oh My Zsh supported?</div> | <div>By an active open-source community.</div>
+<div>What type of shell does Oh My Zsh manage?</div> | <div>Zsh (Z shell).</div>
+<div>Give an example of a plugin Oh My Zsh might offer.</div> | <div>Git plugin, Docker plugin.</div>
+<div>Is Oh My Zsh closed source or open source?</div> | <div>Open source.</div>
+<div>What kind of improvements does Oh My Zsh bring to the terminal experience?</div> | <div>Significant improvements in productivity, appearance, and functionality.</div>
+<div>How does Oh My Zsh improve developer workflow?</div> | <div>By providing plugins for common developer tools and streamlining Zsh configuration.</div>
+<div>Name three key features of Oh My Zsh.</div> | <div>Plugins, themes, Zsh configuration framework.</div>
+<div>What is the role of the community in Oh My Zsh?</div> | <div>Supports and maintains the framework.</div>
+<div>How does Oh My Zsh enhance the appearance of the terminal?</div> | <div>Through customizable themes.</div>
+<div>What is the main purpose of Oh My Zsh plugins?</div> | <div>To extend functionality for specific tools and workflows.</div>
+<div>What makes Oh My Zsh a popular choice for command-line users?</div> | <div>Its ease of use, customizability, and extensive plugin support.</div>
+<div>True or False: Oh My Zsh is only for experienced users.</div> | <div>False</div>
+<div>True or False: Oh My Zsh requires advanced programming knowledge.</div> | <div>False</div>
+<div>What is a common way to customize the look of your terminal using Oh My Zsh?</div> | <div>By changing themes.</div>
+<div>Besides plugins and themes, what else contributes to the improved functionality of Oh My Zsh?</div> | <div>The Zsh configuration framework.</div>
+
+

@@ -1,0 +1,54 @@
+**Calculus I: Product and Quotient Rules**
+
+**Foundation**
+
+*   Review of Basic Differentiation Rules
+    *   Power Rule
+    *   Constant Multiple Rule
+    *   Sum and Difference Rule
+*   Understanding Functions: Algebraic, Trigonometric, Exponential, and Logarithmic
+*   Introduction to the Concept of a Derivative
+    *   Geometric Interpretation (Slope of a Tangent Line)
+    *   Rate of Change
+*   Limits and Continuity (Brief Review as Required)
+
+**Intermediate**
+
+*   The Product Rule
+    *   Derivation of the Rule
+    *   Application to Polynomials, Rational Functions, and Transcendental Functions
+    *   Higher Order Derivatives Using the Product Rule
+    *   Implicit Differentiation Using Product Rule
+*   The Quotient Rule
+    *   Derivation of the Rule
+    *   Application to Rational Functions
+    *   Simplification and Interpretation
+    *   Higher Order Derivatives Using the Quotient Rule
+    *   Implicit Differentiation Using Quotient Rule
+
+**Advanced**
+
+*   Combination of Product and Quotient Rules
+    *   Complex Function Differentiation
+    *   Optimization Problems Involving Product and Quotient Rules
+    *   Related Rates Problems Involving Product and Quotient Rules
+*   Applications
+    *   Curve Sketching with Rational Functions
+    *   Analysis of Rates of Change in Context
+    *   Real World Modeling
+
+**Master**
+
+*   Advanced Techniques
+    *   Logarithmic Differentiation and its relation to Product and Quotient Rules
+    *   Differentiation of Piecewise Functions using Product and Quotient Rules
+    *   Applications in Physics and Engineering contexts
+    *   Advanced Optimization problems in business and economics
+*   Theorems and Proofs
+    *   Formal Proofs of Product and Quotient Rules
+    *   Theoretical Analysis of Differentiability
+    *   Error Analysis of differentiation in applied problems
+*   Review and Synthesis
+    *   Comprehensive Practice and Mastery Testing
+    *   Individual Projects applying Product and Quotient Rules
+

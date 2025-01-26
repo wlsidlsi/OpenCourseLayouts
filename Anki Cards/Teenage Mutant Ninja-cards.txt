@@ -1,0 +1,29 @@
+<div>Who is the disciplined leader of the Teenage Mutant Ninja Turtles?</div> | <div>Leonardo</div>
+<div>What is Leonardo's primary weapon?</div> | <div>Katana swords</div>
+<div>Which Turtle is known as the hot-headed daredevil?</div> | <div>Raphael</div>
+<div>What weapon does Raphael primarily use?</div> | <div>Sai</div>
+<div>Who is the brainy inventor of the Teenage Mutant Ninja Turtles?</div> | <div>Donatello</div>
+<div>What is Donatello's signature weapon?</div> | <div>Bo staff</div>
+<div>Which Turtle is the free-spirited party dude?</div> | <div>Michelangelo</div>
+<div>What weapon does Michelangelo favor?</div> | <div>Nunchaku</div>
+<div>Who serves as the wise and caring mentor to the Turtles?</div> | <div>Splinter</div>
+<div>What species is Splinter?</div> | <div>Mutated rat</div>
+<div>Who is the human ally and reporter of the Turtles?</div> | <div>April O'Neil</div>
+<div>What is April O'Neil's profession?</div> | <div>Reporter</div>
+<div>Who is the hockey-mask-wearing vigilante ally of the Turtles?</div> | <div>Casey Jones</div>
+<div>What weapons does Casey Jones primarily use?</div> | <div>Sports equipment like hockey sticks and bats</div>
+<div>Who is the evil ninja mastermind and arch-enemy of the Turtles?</div> | <div>Shredder</div>
+<div>What is Shredder's real name?</div> | <div>Oroku Saki</div>
+<div>Who is the disembodied brain from Dimension X?</div> | <div>Krang</div>
+<div>What is Krang's primary goal?</div> | <div>Conquering Earth and other dimensions</div>
+<div>Who are the mutated foot soldiers that serve Shredder?</div> | <div>Bebop and Rocksteady</div>
+<div>What species are Bebop and Rocksteady before mutation?</div> | <div>Pigs and warthog</div>
+<div>Who is the mad scientist and ally of Shredder?</div> | <div>Baxter Stockman</div>
+<div>What is the Technodrome?</div> | <div>Shredder's mobile fortress and base of operations</div>
+<div>What was the Battle for Dimension X about?</div> | <div>Conflict involving Krang and the Turtles to control Dimension X</div>
+<div>What was the Turtles' quest for the Statue of Liberty?</div> | <div>An adventure to protect or retrieve the iconic landmark</div>
+<div>What is the origin story of the Teenage Mutant Ninja Turtles?</div> | <div>Four turtles mutated by a mysterious ooze and trained by Splinter</div>
+<div>Who are the Purple Dragons?</div> | <div>A street gang rivaling the Turtles</div>
+<div>What is the significance of the alliance with Splinter's other students?</div> | <div>Strengthening the Turtles' support network and skills</div>
+<div>Who are the Triceratons?</div> | <div>Alien warriors that appear as adversaries to the Turtles</div>
+<div>What marked the return of Krang and Shredder?</div> | <div>The resurgence of their threat to Earth and the Turtles</div>

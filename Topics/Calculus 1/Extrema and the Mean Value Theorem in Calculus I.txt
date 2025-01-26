@@ -1,0 +1,39 @@
+**Calculus I: Extrema and Mean Value Theorem**
+
+**Foundation:**
+
+*   Functions and their Graphs
+*   Limits and Continuity
+*   Differentiation Rules (Power, Product, Quotient, Chain)
+*   Derivatives of Trigonometric, Exponential, and Logarithmic Functions
+*   Implicit Differentiation
+*   Related Rates
+
+**Intermediate:**
+
+*   Critical Points and Intervals of Increase/Decrease
+*   First Derivative Test for Local Extrema
+*   Concavity and the Second Derivative Test
+*   Inflection Points
+*   Optimization Problems (Applied Max/Min)
+*   Curve Sketching
+*   Linearization and Differentials
+
+**Advanced:**
+
+*   Extreme Value Theorem
+*   Rolle's Theorem
+*   Mean Value Theorem
+*   Applications of the Mean Value Theorem
+*   L'Hôpital's Rule (Indeterminate Forms)
+*   Antiderivatives and Indefinite Integrals (Briefly introduced if needed)
+
+**Master:**
+
+*   Rigorous Proofs of Rolle's and Mean Value Theorems
+*   Generalized Mean Value Theorem (Cauchy)
+*   Advanced Optimization Techniques
+*   Taylor's Theorem and Remainder
+*   Error Bounds using Mean Value Theorem
+*   Applications in other Fields (e.g., Physics, Engineering)
+
